@@ -3,17 +3,11 @@
 ![bebe](Images/bebe.png)
 
 
-- euclidean gate sequencer/square LFO 
+- euclidean gate sequencer/square LFO based on ATtiny84 with 2 gates and a clock output  
 
-based on ATtiny84 with 2 gates and a clock output  
+- two frequency mixed lunetta style NAND oscillators with gate and CV control (with vactrol)
 
-- two frequency mixed oscillators
-
-lunetta style NAND oscillators with gate and CV control (with vactrol)
-
-- tone and volume control
-
-tone control inspired by big muff pi tone section
+- volume and tone control inspired by big muff pi tone section
 
 
 ![bebe_pcb](Images/bebe_pcb.png)
