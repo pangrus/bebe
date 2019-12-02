@@ -8,6 +8,6 @@
 
 ![bebe_pcb](Images/bebe_pcb.png)
 
-In this repository you can find the schematic,PCB production files and software to build your own device.
+In this repository you can find the schematic, the PCB production files and the software to build your own device.
 
 Enjoy.
