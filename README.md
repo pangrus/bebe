@@ -1,5 +1,9 @@
 # bebe
 
+The name is a tribute to Bebe Barron, pioneer in the field of electronic music
+
+
+
 ![bebe](Images/bebe.png)
 
 
@@ -12,6 +16,9 @@
 
 ![bebe_pcb](Images/bebe_pcb.png)
 
+
+
 In this repository you can find the schematic, the PCB production files and the software to build your own device.
+
 
 Enjoy.
