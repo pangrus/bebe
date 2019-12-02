@@ -1,6 +1,6 @@
 # bebe
 
-The name is a tribute to Bebe Barron, pioneer in the field of electronic music
+The name is a tribute to Bebe Barron, pioneer in the field of electronic music.
 
 
 
