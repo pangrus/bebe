@@ -10,7 +10,7 @@ The name is a tribute to *[Bebe Barron](https://en.wikipedia.org/wiki/Bebe_and_L
 
 - two frequency mixed lunetta style NAND oscillators with gate and vactrol CV control
 
-- volume and tone control inspired by big muff pi tone section
+- volume and tone control inspired by *[big muff pi](https://en.wikipedia.org/wiki/Big_Muff)* tone section
 
 
 ![bebe_pcb](Images/bebe_pcb.png)
