@@ -2,8 +2,7 @@
 
 This circuit has been developed for a workshop at the *[Conservatorio della Svizzera Italiana](https://www.conservatorio.ch/it)*.    
 
-The name is a tribute to *[Bebe Barron](https://en.wikipedia.org/wiki/Bebe_and_Louis_Barron)*, pioneer in the field of electronic music.
-
+The name is a tribute to *[Bebe Barron](https://en.wikipedia.org/wiki/Bebe_and_Louis_Barron)*, pioneer in the field of electronic music.       
 
 ![bebe](Images/bebe.png)
 
