@@ -7,7 +7,7 @@ The name is a tribute to Bebe Barron, pioneer in the field of electronic music.
 ![bebe](Images/bebe.png)
 
 
-- euclidean gate sequencer/square LFO based on ATtiny84 with 2 gates and a clock output  
+- 5 steps euclidean gate sequencer/square LFO based on ATtiny84 with 2 gates and a clock output  
 
 - two frequency mixed lunetta style NAND oscillators with gate and CV control (with vactrol)
 
