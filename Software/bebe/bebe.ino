@@ -67,7 +67,7 @@ void loop() {
     if (potenziometro1 <= 10) digitalWrite (out1, LOW);
     if (potenziometro1 >= 1010) digitalWrite (out1, HIGH);
     if (potenziometro1 > 10 & potenziometro1 < 1010) {
-      tempoGate1 = map(potenziometro1, 0, 1023, 150000, 3000);
+      tempoGate1 = map(potenziometro1, 11, 1009, 150000, 3000);
       if (ora - prima0 > tempoGate1) {
         prima0 = ora;
         gate1 = !gate1;
@@ -75,10 +75,10 @@ void loop() {
       }
     }
 
-    if (potenziometro2 < 10) digitalWrite (out2, LOW);
-    if (potenziometro2 > 1010) digitalWrite (out2, HIGH);
+    if (potenziometro2 <= 10) digitalWrite (out2, LOW);
+    if (potenziometro2 >= 1010) digitalWrite (out2, HIGH);
     if (potenziometro2 > 10 & potenziometro2 < 1010) {
-      tempoGate2 = map(potenziometro2, 0, 1023, 150000, 3000);
+      tempoGate2 = map(potenziometro2, 11, 1009, 150000, 3000);
       if (ora - prima1 > tempoGate2) {
         prima1 = ora;
         gate2 = !gate2;
@@ -116,11 +116,11 @@ void loop() {
     if (pattern0[stepCorrente] == 'x') digitalWrite (out1, HIGH);
     if (pattern1[stepCorrente] == 'x') digitalWrite (out2, HIGH);
 
-    delay (pausa / 2);
+    delay (pausa);
     digitalWrite (clockOut, LOW);
     digitalWrite (out1, LOW);
     digitalWrite (out2, LOW);
-    delay (pausa / 2);
+    delay (pausa);
 
     if (++stepCorrente == 5) stepCorrente = 0;
   }
