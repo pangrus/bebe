@@ -1,7 +1,7 @@
-////////////////////
-//  bebe_brain     //
+/////////////////////
+//      bebe       //
 //                 //
-//  square lfo     //
+//    square lfo   //
 //  gate sequencer //
 //                 //
 //  pangrus 2019   //
